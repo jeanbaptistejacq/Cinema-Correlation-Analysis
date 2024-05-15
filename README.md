@@ -16,7 +16,7 @@ We conduct exploratory Data analysis and Data cleaning of a movie dataset. The p
   <li>Fork this repository</li>
   <li>Clone the repository to your local computer</li>
   <li>Open the downloaded ipynb file using Jupyter notebook</li>
-  <li>You can now run the project!</li>
+  <li>You can now run the project</li>
 </ol>
 
 
