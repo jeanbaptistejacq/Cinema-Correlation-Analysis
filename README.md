@@ -32,14 +32,22 @@ The central objective of this project was to identify correlations between the f
 - Gross Revenue and Production Company: Investigating whether the production company influences the gross revenue of a movie.
 - Gross Revenue and Viewer Votes: Exploring the relationship between viewer votes and the gross revenue of a movie.
 </br>
+
 ![scatterplot](https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/4ddf38c7-f722-4024-910a-ae858ab3d74b)
 </br>
+
+
 ![regs](https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/d95b68bc-b2c1-4965-98b8-2031f6b0082a)
 </br>
+
+
 ![correlation](https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/8c7bceb8-e20d-466d-a992-b4941d348066)
 </br>
+
+
 ![corr](https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/a96c5140-56f9-414c-bebd-943acf40754e)
 </br>
+
 The analysis of the dataset showed that the budget and votes have a high correlation with the gross revenue of the movie.
 </br>
 
