@@ -38,8 +38,7 @@ We are currently facing an issue: 28% of the data for the budget variable is mis
 </br>
 
 
-![regs](https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/d95b68bc-b2c1-4965-98b8-2031f6b0082a)
-</br>
+<img width="700" alt="chartmovie" src="https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/83cea413-a5eb-4989-8767-614c9d92dee6"></br>
 
 
 ![correlation](https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/8c7bceb8-e20d-466d-a992-b4941d348066)
