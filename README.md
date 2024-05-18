@@ -33,6 +33,8 @@ The central objective of this project was to identify correlations between the f
 - Gross Revenue and Viewer Votes: Exploring the relationship between viewer votes and the gross revenue of a movie.
 </br>
 We are currently facing an issue: 28% of the data for the budget variable is missing. To address this, we have decided to impute the missing values using predictions from a linear regression model. We will split the dataset into training and test sets, then use the model to predict the missing values.
+
+</br>
 ![scatterplot](https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/4ddf38c7-f722-4024-910a-ae858ab3d74b)
 </br>
 
