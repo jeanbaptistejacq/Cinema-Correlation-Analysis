@@ -2,7 +2,7 @@
 ![Why-is-Popcorn-a-Movie-Food](https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/237bb8eb-553b-46ce-862f-bf1e4e455fa8)
 </br>
 </br>
-We conduct exploratory Data analysis and Data cleaning of a movie dataset. The primary goal is to analyze the dataset and uncover correlations between various attributes, with a focus on exploring the relationships between budget, gross revenue, movie production companies, and viewer votes.
+We conduct exploratory data analysis and data cleaning of a movie dataset. The primary goal is to analyze the dataset and uncover correlations between various attributes, with a focus on exploring the relationships between Budget, Gross revenue, Movie Production Companies, and Viewer Votes.
 
 ## Content
 
@@ -32,7 +32,7 @@ The central objective of this project was to identify correlations between the f
 - Gross Revenue and Production Company: Investigating whether the production company influences the gross revenue of a movie.
 - Gross Revenue and Viewer Votes: Exploring the relationship between viewer votes and the gross revenue of a movie.
 </br>
-We are currently facing an issue: 28% of the data for the budget variable is missing. To address this, we have decided to impute the missing values using predictions from a linear regression model. We will split the dataset into training and test sets, then use the model to predict the missing values.
+We are currently facing an issue: 28% of the data for the Budget variable is missing. To address this, we have decided to impute the missing values using predictions from a linear regression model. We will split the dataset into training and test sets, then use the model to predict the missing values.
 
 </br>
 </br>
@@ -48,7 +48,7 @@ We are currently facing an issue: 28% of the data for the budget variable is mis
 ![corr](https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/a96c5140-56f9-414c-bebd-943acf40754e)
 </br>
 
-The analysis of the dataset showed that the budget and votes have a high correlation with the gross revenue of the movie.
+The analysis of the dataset showed that the Budget and Votes have a high correlation with the Gross Revenue of the movie.
 </br>
 
 ## License
