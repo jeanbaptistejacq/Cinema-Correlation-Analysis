@@ -36,11 +36,16 @@ We are currently facing an issue: 28% of the data for the Budget variable is mis
 
 </br>
 </br>
-
+This chart illustrates the relationship between Budgets and Gross earnings, with a regression line showing the trend :
+</br>
+</br>
 
 <img width="700" alt="chartmovie" src="https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/83cea413-a5eb-4989-8767-614c9d92dee6"></br>
-
-
+</br>
+</br>
+This heatmap displays the correlation matrix for various movie features, highlighting the relationships between them :
+</br>
+</br>
 ![correlation](https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/8c7bceb8-e20d-466d-a992-b4941d348066)
 </br>
 
@@ -48,7 +53,7 @@ We are currently facing an issue: 28% of the data for the Budget variable is mis
 ![corr](https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/a96c5140-56f9-414c-bebd-943acf40754e)
 </br>
 
-The analysis of the dataset showed that the Budget and Votes have a high correlation with the Gross Revenue of the movie.
+The analysis of the dataset showed that the Budget and Votes have a high correlation with the Gross Revenue of the movie. Contrary to our intuition, the Company has little correlation with Gross earnings. This is evident from the correlation matrix we obtained by converting categorical data to numerical codes and calculating the Pearson correlation coefficients.
 </br>
 
 ## License
