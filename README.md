@@ -48,8 +48,10 @@ This heatmap displays the correlation matrix for various movie features, highlig
 </br>
 ![correlation](https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/8c7bceb8-e20d-466d-a992-b4941d348066)
 </br>
-
-
+</br>
+This code identifies pairs of features with a high correlation (greater than 0.5) from the sorted correlation pairs :
+</br>
+</br>
 ![corr](https://github.com/jeanbaptistejacq/Cinema-Correlation-Analysis/assets/80902643/a96c5140-56f9-414c-bebd-943acf40754e)
 </br>
 
